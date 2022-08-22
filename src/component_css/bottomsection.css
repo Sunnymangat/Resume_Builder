@@ -1,0 +1,21 @@
+.bottomSection,.bottomSectionlist,.bottomSectionListOpen{
+  text-align: center;
+  width: 100%;
+  margin-top: 20px;
+}
+.bottomSection Button,.bottomSectionlist Button,.bottomSectionListOpen Button{
+  width:48%;
+}
+
+.bottomSectionListOpenSection{
+  text-align: left;
+  border: 1px solid lightgray;
+  border-top: 1px solid transparent;
+  margin: 0px 26%;
+  padding: 1% 3%;
+}
+.bottomSectionListOpenSection Button{
+  width:10%;
+  margin-right: 15px;
+  border:1px solid lightgray;
+}

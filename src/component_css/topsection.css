@@ -1,0 +1,56 @@
+.topSectionProfile{
+  display: grid;
+  grid-template-rows: 1fr;
+  grid-template-columns: 0.8fr 1.7fr 2fr;
+  padding: 20px 30px;
+  grid-column-gap: 30px;
+  font-size: small;
+  font-weight: bolder;
+}
+.topSectionProfileImg{
+  grid-row: 1/1;
+  grid-column: 1/2;
+  background: whitesmoke;
+  border: 1px dashed grey;
+  text-align: center;
+  border-radius: 50%;
+  margin: 0px 25px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.topSectionProfileInputs{
+  grid-row: 1/1;
+  grid-column: 2/3;
+  padding-left:30px;
+}
+.topSectionProfileInputs input{
+  width:80%;
+  padding: 1%;
+  border:1px solid lightgray;
+  margin-top: 0.5%;
+}
+.topSectionProfileBio{
+  grid-row: 1/1;
+  grid-column: 3/4;
+}
+.topSectionProfileBio textarea{
+  width:90%;
+  margin-top: 0.5%;
+  padding: 1%;
+  min-height: 85px;
+  resize: none;
+  border:1px solid lightgray;
+  font-family: "Roboto","Helvetica","Arial",sans-serif;
+}
+.topSectionProfileSave{
+  grid-row: 1/2;
+  grid-column: 2/-1;
+}
+.topSectionProfileImg img{
+  border-radius: 50%;
+  height:150px;
+  width:95%;
+  margin:0px 20px;
+}

@@ -1,0 +1,31 @@
+.popup input{
+  min-width:98%;
+  padding: 1%;
+  margin-bottom: 5%;
+  border: 1px solid lightgray;
+}
+.popup textarea{
+  padding: 1%;
+  min-height: 90px;
+  width:98%;
+  border: 1px solid lightgray;
+  resize: none;
+  font-family: "Roboto","Helvetica","Arial",sans-serif;
+}
+.popdates{
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-column-gap: 20px;
+}
+.popdatesone{
+  grid-row: 1/1;
+  grid-column: 1/2;
+}
+.popdatestwo{
+  grid-row: 1/1;
+  grid-column:2/3;
+}
+.popdatesone input,.popdatestwo input{
+  height: 20px;
+}
+
