@@ -5,3 +5,6 @@ Wonderful project learn lot of new things and explore new technologies.
 Tech Stack used:- ReactJs, Javascript, Json, CSS, HTML.
 
 Link:- https://sunnyresumebuilder.vercel.app/
+![Screenshot (1109)](https://user-images.githubusercontent.com/66839015/185839946-6d367957-f5a8-4948-a2c6-27b31bce2938.png)
+![Screenshot (1110)](https://user-images.githubusercontent.com/66839015/185839952-1a4dc785-730b-4992-8e98-e3c21254e9de.png)
+![Screenshot (1111)](https://user-images.githubusercontent.com/66839015/185839953-b88ea226-61b7-449d-9ae9-a0e7afbaa48d.png)
